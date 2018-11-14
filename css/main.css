@@ -1,0 +1,58 @@
+/* css for K.C. web */
+.topNav{
+    background-color:rgb(23, 23, 156);
+    width: 1360px;
+    height: 110px;
+    border: 1px solid;
+    margin-top: 0px;
+    
+    
+}
+
+.topNav li{
+    display: inline;
+    justify-content: space-between;
+    margin-left: 20px;
+    
+    
+    
+
+
+}
+
+.topNav li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.go{
+    text-align: center;
+    background-color:rgb(23, 23, 156);
+    width: 1360px;
+    height: 300px
+
+}
+
+.go p{
+    color: white
+}
+
+.go h1{
+    color: white;
+}
+
+.btn{
+    width: 200px;
+    height: 90px;
+    background-color:white;
+    color: rgb(23, 23, 156);
+    margin-left:20px;
+    border: none;
+   
+   
+   
+   
+    
+}
